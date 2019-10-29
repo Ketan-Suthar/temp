@@ -1,0 +1,3 @@
+first line of second file
+
+second line added
