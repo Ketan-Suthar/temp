@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 first line of first file
+=======
+first line of first file
+
+second line added
+>>>>>>> folder1
