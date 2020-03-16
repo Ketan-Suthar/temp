@@ -1,3 +1,4 @@
 *.rtf
 *.exe
 *.gitignore
+ignorethis/*.*
